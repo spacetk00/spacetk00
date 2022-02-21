@@ -7,7 +7,7 @@
     <br/>
 </div>
 
-<div style="display: flex; justify-content: space-evenly; align-items: center;">
+<div style="display: flex; justify-content: space-evenly; align-items: space-evenly;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height="150em" src="https://github-readme-stats.vercel.app/api?username=spacetk00&show_icons=true&theme=radical" />
     </a>
