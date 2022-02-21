@@ -3,7 +3,7 @@
 <p style="text-align: center">Ajudando a traduzir Crosscode para 🇧🇷</p>
 
 <div style="display: flex; align-items: center; justify-content: center">
-    <img style="align-self: center; width: 80%" src="https://cdn.discordapp.com/attachments/732337957876269098/931016369036754994/ioii.gif"/>
+    <img style="align-self: center; width: 100%" src="https://cdn.discordapp.com/attachments/732337957876269098/931016369036754994/ioii.gif"/>
     <br/>
 </div>
 
