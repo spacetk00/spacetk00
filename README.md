@@ -1,16 +1,18 @@
-### Hi there 👋
+<h2 style="text-align: center">Olá eu sou Paulo Ricardo</h2>
+<p style="text-align: center">Estudante de programação</p>
+<p style="text-align: center">Ajudando a traduzir Crosscode para 🇧🇷</p>
 
-<!--
-**spacetk00/spacetk00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: flex; align-items: center; justify-content: center">
+    <img style="align-self: center" src="https://cdn.discordapp.com/attachments/732337957876269098/931016369036754994/ioii.gif"/>
+    <br/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex; justify-content: space-evenly; align-items: center;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spacetk00&show_icons=true&theme=radical" />
+    </a>
+    <img src="https://cdn.discordapp.com/attachments/897658399037202443/945403742860218478/Megaman-bird.gif" />
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spacetk00&theme=tokyonight&hide=html&layout=compact&langs_count=6" />
+    </a>
+</div>
