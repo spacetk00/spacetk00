@@ -6,7 +6,7 @@
 </ul>
 
 
-<div style="display: flex; align-items: center; justify-content: center; margin-botton: 5%">
+<div style="display: flex; align-items: center; justify-content: center; margin-botton: 10%">
     <img style="align-self: center; width: 100%" src="https://cdn.discordapp.com/attachments/732337957876269098/931016369036754994/ioii.gif"/>
     <br/>
 </div>
@@ -30,5 +30,10 @@
     <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react-native" />
     <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" alt="inkscape" />
     <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="inkscape" />
+</div>
+
+<div style="display: flex; align-items: center; justify-content: center; margin-botton: 10%">
+    <img style="align-self: center; width: 100%" src="https://cdn.discordapp.com/attachments/732337957876269098/931016369036754994/ioii.gif"/>
+    <br/>
 </div>
 
