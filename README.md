@@ -3,7 +3,7 @@
     <br/>
 </div>
 
-<div style="display: flex; justify-content: space-evenly; align-items: space-evenly; width: 100%; margin-top: 5%; margin-botton: 5%">
+<div style="display: flex; justify-content: space-evenly; align-items: center; width: 100%; margin-top: 5%; margin-botton: 5%">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height="150em" src="https://github-readme-stats.vercel.app/api?username=spacetk00&show_icons=true&theme=radical" />
     </a>
@@ -13,7 +13,7 @@
     </a>
 </div>
 
-<div style="display: flex; justify-content: space-evenly; align-items: space-evenly; width: 100%">
+<div style="display: flex; justify-content: space-evenly; align-items: center; width: 100%">
     <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" />
     <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" />
     <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" />
