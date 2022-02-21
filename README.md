@@ -1,8 +1,4 @@
-<h2 style="text-align: center">Olá eu sou Paulo Ricardo</h2>
-<p style="text-align: center">Estudante de programação</p>
-<p style="text-align: center">Ajudando a traduzir Crosscode para 🇧🇷</p>
-
-<div style="display: flex; align-items: center; justify-content: center">
+<div style="display: flex; align-items: center; justify-content: center; margin-botton: 5%">
     <img style="align-self: center; width: 100%" src="https://cdn.discordapp.com/attachments/732337957876269098/931016369036754994/ioii.gif"/>
     <br/>
 </div>
