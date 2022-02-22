@@ -5,13 +5,6 @@
     <li>Ajudando a traduzir Crosscode para 🇧🇷</li>
 </ul>
 
-
-<div style="display: flex; align-items: center; justify-content: center;">
-    <img style="align-self: center; width: 100%"
-        src="https://cdn.discordapp.com/attachments/732337957876269098/931016369036754994/ioii.gif" />
-    <br />
-</div>
-
 <div style="display: flex; justify-content: space-evenly; align-items: space-evenly; width: 100%">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height="150em"
