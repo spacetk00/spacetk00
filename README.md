@@ -3,7 +3,6 @@
 * Sou estudante de programação
 * Estou ajudando a traduizir o jogo **Crosscode** para 🇧🇷 
 
-![alt](https://media.discordapp.net/attachments/732337957876269098/931016369036754994/ioii.gif)
 ![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacetk00&show_icons=true&theme=tokyonight)
 ![alt](https://media.discordapp.net/attachments/732337957876269098/931016369036754994/ioii.gif)
 
